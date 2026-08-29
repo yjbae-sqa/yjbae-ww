@@ -29,9 +29,9 @@ Quality Engineering을 기반으로 Software Engineering, Automation, AI/LLM, CI
 ## 🚀 주요 경험
 
 * 소프트웨어 서비스·솔루션 개발 및 운영·유지보수·고도화
-* 릴리즈 영향도를 기준으로 Selenium·Appium 기반 테스트 자동화 범위를 정의하고 개발·운영
-* AI·LLM을 활용한 반복 업무 및 평가·검증 자동화 기능 구현
-* API·서비스 흐름 분석과 Docker 기반 개발·테스트 실행 환경 구성
+* 릴리즈 영향도를 기준으로 Selenium·Appium 기반 테스트 자동화 범위를 정의하고 개발 및 운영
+* AI/LLM을 활용한 반복 업무 및 평가/검증 자동화 기능 구현
+* API/서비스 흐름 분석과 Docker 기반 개발/테스트 실행 환경 구성
 * Coverage 기반 Release Quality Gate 기준 정의 및 운영
 
 ---
@@ -40,7 +40,7 @@ Quality Engineering을 기반으로 Software Engineering, Automation, AI/LLM, CI
 
 [![GitHub](https://img.shields.io/badge/Pensive--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pensive-dev)
 
-* Unity 기반 클라이언트 및 서비스·솔루션 개발 경력과 수행 이력
+* Unity 기반 클라이언트 및 서비스/솔루션 개발 경력과 수행 이력
 
 <h3>
   <a href="https://github.com/yjbae-sqa/yjbae-sqa/issues/5" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #58a6ff;">🧩 Engineering Areas ↗</a>
